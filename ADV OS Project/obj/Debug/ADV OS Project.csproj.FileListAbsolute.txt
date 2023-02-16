@@ -1,0 +1,13 @@
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\bin\Debug\ADV OS Project.exe.config
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\bin\Debug\ADV OS Project.exe
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\bin\Debug\ADV OS Project.pdb
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV OS Project.csprojAssemblyReference.cache
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV_OS_Project.FCFS.resources
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV_OS_Project.Form1.resources
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV_OS_Project.Properties.Resources.resources
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV OS Project.csproj.GenerateResource.cache
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV OS Project.csproj.CoreCompileInputs.cache
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV OS Project.exe
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV OS Project.pdb
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV_OS_Project.SSTF.resources
+C:\Users\Kareem\Desktop\ADV OS Project\ADV OS Project\obj\Debug\ADV_OS_Project.SCAN.resources
